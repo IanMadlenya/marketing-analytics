@@ -1,2 +1,2 @@
 # marketing-analytics
-Scripts and projects developed and used by the marketing and demand generation team
+Scripts and projects developed and used by the marketing and demand generation teams.
